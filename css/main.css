@@ -35,8 +35,8 @@ html, body {
       background-image: url('../assets/images/night.jpg');
     }
     .image {
-      background-image: url('../assets/images/kitten-medium.png');
-      width: 75vh;
+      background-image: url('../assets/images/kitten-small.png');
+      width: 50vh;
     }
 }
 /* -------------Fin ------------- */
@@ -48,8 +48,8 @@ html, body {
       background-image: url('../assets/images/sunny-day.jpg');
     }
     .image {
-      background-image: url('../assets/images/kitten-small.png');
-      width: 50vh;
+      background-image: url('../assets/images/kitten-medium.png');
+      width: 75vh;
     }
 }
 /* -------------Fin ------------- */
